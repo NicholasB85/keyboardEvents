@@ -1,0 +1,12 @@
+body {
+    background-image: url(Aerial08.jpg);
+}
+
+#box {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    content:  url(angryPenguin.png);
+    left: 200px;
+    top: 200px;
+}
